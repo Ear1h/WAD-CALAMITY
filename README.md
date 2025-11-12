@@ -3,7 +3,7 @@
 
 ![Logo](./TITLEPIC.png)
 
-**Download**: [Latest Release](https://github.com/Ear1h/WAD-Citadel/releases/download/v1.1/JOPA_Citadel.wad)
+**Download**: [Latest Release](https://github.com/Ear1h/WAD-CALAMITY/releases/download/v1.0/CALAMITY.zip)
 
 **Authors:** **Ear1h, Track Federal, Doom Wads**
 
