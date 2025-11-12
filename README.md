@@ -1,4 +1,5 @@
 # Calamity (9 levels, Hell 3emlya Source Port, Ultimate Doom)
+# STATUS: ✅RELEASED
 
 ![Logo](./TITLEPIC.png)
 
